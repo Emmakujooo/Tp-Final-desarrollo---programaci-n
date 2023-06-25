@@ -619,3 +619,10 @@ section.empleados {
     display: block;
     width: 50%
 }
+
+
+.btn-consult
+ {
+    background-color: #320000;
+    color: #ffffff;
+}
