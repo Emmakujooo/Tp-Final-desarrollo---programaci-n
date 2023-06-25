@@ -1,0 +1,621 @@
+#menu {
+    color: brown;
+}
+
+/* Body */
+
+body.srp,
+body {
+    background-color: rgba(255, 255, 255, 0.966);
+}
+
+
+/* Imágenes */
+
+.imagen1 {
+    opacity: 0.5;
+}
+
+
+.logo cafe {
+    width: 50px;
+    height: 50px;
+}
+
+main.fondo {
+    height: 100vh;
+    color: #ffffff;
+    background-image: url(img/header.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+
+.cards-wrapper,
+card {
+    margin: 1rem auto;
+    width: calc(100%/2);
+}
+
+
+
+
+.mapatext {
+    color: white;
+    margin: 2rem auto;
+}
+
+figure {
+    border: rgba(75, 30, 1, 0.966);
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 420px;
+    margin: auto;
+}
+
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+
+li {
+    color: #660505;
+}
+
+/* Textos */
+
+h1 {
+    color: #ffffff;
+}
+
+.product-container {
+    margin-bottom: 20px;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
+
+
+.row {
+    max-width: 100%;
+}
+
+/* PORTADA */
+
+
+.titulo {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ff7f08;
+
+}
+
+.subtitulo {
+    font-family: 'Tajawal', sans-serif;
+
+
+}
+
+
+/* CATEGORÍAS */
+
+section.categorias {
+    background-color: #8d4925;
+    color: #ffb48a
+}
+
+
+
+
+#categorias p {
+    font-family: 'Tajawal', sans-serif;
+}
+
+#categorias h2 {
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+#categorias h5 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+
+/* carrusel */
+
+#recomendados h5 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Oswald', sans-serif;
+
+}
+
+#recomendados p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+section.recomendados {
+
+
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+#recomendados h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #5d2417;
+
+}
+
+/* delivery */
+
+section.delivery {
+    background-color: #8d4925;
+    color: #ffb48a
+}
+
+#delivery p {
+    font-family: 'Tajawal', sans-serif;
+}
+
+#delivery h2 {
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+
+
+#delivery h5 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+/* OPINIONES DE CLIENTES  */
+.clientes1 {
+
+    background-color: #c57d56;
+
+}
+
+.clientes {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #5d2417;
+    background-color: #c57d56;
+
+}
+
+.card-body {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #5d2417;
+}
+
+.card-body21 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #5d2417;
+}
+
+/* NEWSLETTER */
+
+section.fondonewsletter {
+    background-color: #5d2417;
+}
+
+.newsletter-text {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ff7f08;
+}
+
+
+.boton-letter {
+    background-color: #ff7f08;
+
+    color: #ffffff;
+
+
+
+}
+
+.boton-letter:hover {
+    background-color: #8d4925;
+
+}
+
+.letter-text {
+    font-family: 'Tajawal', sans-serif;
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: #320000;
+    color: #ffffff;
+}
+
+.list-group-item {
+    background-color: #320000;
+    border-color: #320000;
+
+}
+
+.header {
+    background-color: rgb(119, 0, 73);
+
+
+}
+
+.footer-text {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ff7f08;
+}
+
+/* PAGINA 2 TEXTO  */
+.atencion {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffb48a
+}
+
+.atencion2 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffb48a
+}
+
+.atencion3 {
+    font-family: 'Josefin Sans', sans-serif;
+
+    color: #ffb48a
+}
+
+.datos-n {
+    font-family: 'Tajawal', sans-serif;
+
+    color: #ffb48a
+}
+
+/* CLIENTES */
+
+.datos-e {
+    font-family: 'Tajawal', sans-serif;
+
+    color: #ffb48a
+}
+
+.datos-m {
+    font-family: 'Tajawal', sans-serif;
+
+    color: #ffb48a
+}
+
+.datos-t {
+    font-family: 'Tajawal', sans-serif;
+
+    color: #ffb48a
+}
+
+
+section.consultas {
+    background-color: #5d2417;
+    color: #ffffff;
+
+}
+
+/* ACORDEON */
+
+
+
+#acordeon p {
+    font-family: 'Tajawal', sans-serif;
+}
+
+#acordeon h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffb48a
+}
+
+#acordeon h5 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+section.acordeon {
+    background-color: #8d4925;
+    color: #ffffff;
+}
+
+.accordion-button {
+    background-color: #c57d56;
+    color: #fff;
+}
+
+.accordion-button {
+    margin-bottom: 0;
+}
+
+
+.accordion-button:not(.collapsed) {
+    background-color: #5d2417;
+
+    font-weight: 500;
+    color: #fff;
+}
+
+section.categorias {
+    background-color: #8d4925;
+    color: #ffb48a
+}
+
+
+
+
+
+/* BOTONES */
+
+
+.boton_1 {
+    background-color: #856140;
+    color: #fff;
+}
+
+.boton-compra:hover {
+    background-color: #d66d0a;
+    color: #ffffff;
+
+}
+
+
+/* CART */
+
+.carrito-texto {
+    font-family: 'Bebas Neue', sans-serif;
+
+    color: #5d2417;
+}
+
+
+#productos-text1 h2 {
+    font-family: 'Oswald', sans-serif;
+
+    color: #5d2417;
+}
+
+.product-container {
+    background-color: #f2f2f2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.568);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.product-container img {
+    width: 100%;
+    height: auto;
+
+}
+
+.product-container h4,
+.product-container p {
+    color: #ffffff;
+    margin-top: 11px;
+}
+
+.product-container div {
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.product-container button {
+    margin-top: 9px;
+}
+
+
+.smart-cart-container h3 {
+    color: #964B00;
+}
+
+.rounded {
+    border-radius: 10px;
+    /* Ajusta este valor para cambiar el grado de redondez del borde */
+}
+
+
+.product-price strong {
+    font-weight: bold;
+}
+
+
+.product-title {
+    font-family: 'Oswald', sans-serif;
+}
+
+.sc-add-to-cart {
+    background-color: #320000;
+    /* Naranja */
+    border-color: #320000;
+    /* Naranja */
+    color: #fff;
+    /* Texto blanco */
+}
+
+
+
+
+.sc-cart-subtotal {
+    color: #fff;
+    /* Texto blanco */
+}
+
+
+.sc-cart-item-price {
+    color: #fff;
+    /* Texto blanco */
+}
+
+.sc-cart-item-amount {
+    color: #fff;
+    /* Texto blanco */
+}
+
+
+.sc-cart-item-summary {
+    color: #ffffff;
+    /* Texto blanco */
+}
+
+.product-container {
+    border-radius: 10px;
+    /* Agregar bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    /* Agregar sombra */
+    background-color: #8d4925;
+    /* Agregar fondo de color (opcional) */
+}
+
+
+.price {
+    margin-right: 145px;
+    /* Agregar espacio entre el precio y el botón */
+
+}
+
+
+/* MI PEDIDO */
+
+.cart-container {
+    background-color: #5d2417;
+    /* Verde */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    /* Bordes redondeados */
+}
+
+.smart-cart-container {
+    padding: 10px;
+}
+
+.btn:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: #b1680a;
+    border-color: #ffffff;
+
+
+}
+
+.btn.disabled,
+.btn:disabled,
+fieldset:disabled .btn {
+    color: var(--bs-btn-disabled-color);
+    pointer-events: none;
+    background-color: #c57d56;
+    border-color: #320000;
+    opacity: var(--bs-btn-disabled-opacity);
+}
+
+
+/* GALERIA */
+
+
+.galeria-texto {
+    font-family: 'Bebas Neue', sans-serif;
+
+    color: #ffb48a;
+}
+
+
+section.galeria {
+    background-color: #8d4925;
+
+    color: #ffffff;
+}
+
+
+/* PAGINA 4*/
+#texto-yt h2 {
+    font-family: 'Bebas Neue', sans-serif;
+
+    color: #5d2417;
+}
+
+#texto-yt p {
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+#texto-yt h3 {
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+#texto-empleados h2 {
+    font-family: 'Bebas Neue', sans-serif;
+
+    color: #ffb48a
+}
+
+
+section.empleados {
+    background-color: #8d4925;
+    color: #ffffff;
+}
+
+
+
+#texto-empleados p {
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+#texto-empleados h3 {
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+
+/* mapa */
+
+
+.mapatext {
+    font-family: 'Bebas Neue', sans-serif;
+
+    color: #680039;
+    margin: 0rem auto;
+}
+
+
+.mapatext2 {
+    font-family: 'Oswald', sans-serif;
+    color: #680039;
+    font-size: 20px;
+}
+
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+#map-container {
+    padding-bottom: 25%;
+    position: relative;
+    display: block;
+    width: 50%
+}
